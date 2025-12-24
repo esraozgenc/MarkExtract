@@ -23,6 +23,3 @@ MarkExtract, fiziksel veya dijital belgeler üzerinde renkli fosforlu kalemlerle
 4. **OCR İşlemi:** Belirlenen bu koordinatlardaki metinler EasyOCR ile okunur.
 5. **PDF Çıktısı:** Okunan tüm metinler birleştirilerek temiz bir PDF raporuna yazdırılır.
 
-1. Depoyu klonlayın:
-   ```bash
-   git clone [https://github.com/kullaniciadi/MarkExtract.git](https://github.com/kullaniciadi/MarkExtract.git)
